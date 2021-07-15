@@ -182,12 +182,6 @@ __________________________________________________________________________
    
    ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/定时.png)
 
-#### 超级参数设置 ####
- 
-   ApiOfRead.py ， ApiOfWrite.py 文件第11左右行各有个config，具体参数设置已在文件里说明
-   
-   包括账号api的随机延时，api随机排序，每次轮数等参数
-     
    
 ### 结尾 ###
 
